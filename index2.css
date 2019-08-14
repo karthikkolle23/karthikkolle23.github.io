@@ -1,5 +1,4 @@
-﻿body {
-	zoom:0.79;
+body {
 	margin: 0;
 	padding: 0;
 }
@@ -273,3 +272,17 @@
 	left: 1308.051px;
 	top: 904.635px;
 }
+
+
+Warnings:
+1. Border support: Border position "inside" on "Rectangle_1"  is not supported
+2. ID truncated: The auto generated ID starting with 'Gill_Instruments_Log' was truncated
+3. ID truncated: The auto generated ID starting with 'Gill_Instruments_Log' was truncated
+4. Duplicate ID: The Rectangle named, "Gill_Instruments_Logo_02_A0_Rectangle_3_pattern" on artboard, "Web 1366 – 2" was renamed to, "Gill_Instruments_Logo_02_A0_Re_A1_Rectangle_3"
+5. Duplicate ID: The Group named, "Group 1" on artboard, "Web 1366 – 2" was renamed to, "Group_1_A1_Group_2"
+6. Duplicate ID: The Rectangle named, "Slider 1-01" on artboard, "Web 1366 – 2" was renamed to, "Slider_1_01_A1_Rectangle_5"
+7. Duplicate ID: The Rectangle named, "WhatWeDo-02" on artboard, "Web 1366 – 2" was renamed to, "WhatWeDo_02_A1_Rectangle_7"
+8. Duplicate ID: The Rectangle named, "Gill" on artboard, "Web 1366 – 2" was renamed to, "Gill_A1_Rectangle_11"
+9. Duplicate ID: The Rectangle named, "Gill Sense-03" on artboard, "Web 1366 – 2" was renamed to, "Gill_Sense_03_A1_Rectangle_15"
+10. Duplicate ID: The Rectangle named, "Gill Sense-04" on artboard, "Web 1366 – 2" was renamed to, "Gill_Sense_04_A1_Rectangle_17"
+11. Duplicate ID: The Rectangle named, "image" on artboard, "Web 1366 – 2" was renamed to, "image_A1_Rectangle_19"
