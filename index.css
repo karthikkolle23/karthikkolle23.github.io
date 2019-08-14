@@ -4,12 +4,7 @@
         overflow-x: hidden;
     }
 }
-@media(min-width:1367px) {
-    body {
-        zoom:0.79;
-        overflow-x: hidden;
-    }
-}
+
 :root {
 	--web-view-ids: Web_1366___1;
 }
