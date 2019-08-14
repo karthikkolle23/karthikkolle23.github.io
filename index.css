@@ -1,6 +1,12 @@
-body {
-	margin: 0;
-	padding: 0;
+@media(max-width:1366px) {
+    body {
+        zoom:1;
+    }
+}
+@media(min-width:1367px) {
+    body {
+        zoom:0.79;
+    }
 }
 :root {
 	--web-view-ids: Web_1366___1;
