@@ -1,0 +1,275 @@
+﻿body {
+	zoom:0.79;
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: Web_1366___2;
+}
+#Web_1366___2 * {
+	margin: 0;
+	padding: 0;
+}
+#Web_1366___2 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 4327px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Web 1366 – 2;
+	--web-view-id: Web_1366___2;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 118.501px;
+	left: 0px;
+	top: 0px;
+}
+#Group_1 {
+	position: absolute;
+	width: 1863.143px;
+	height: 87.4px;
+	left: 26.849px;
+	top: 15.191px;
+	overflow: visible;
+}
+#Gill_Instruments_Logo_02_A0_Re {
+	fill: url(#Gill_Instruments_Logo_02_A0_Re_A1_Rectangle_3_pattern);
+}
+.Gill_Instruments_Logo_02_A0_Re {
+	position: absolute;
+	overflow: visible;
+	width: 163.192px;
+	height: 87.4px;
+	left: 0px;
+	top: 0px;
+}
+#Group_1_A1_Group_2 {
+	position: absolute;
+	width: 660.825px;
+	height: 18px;
+	left: 1202.318px;
+	top: 34.421px;
+	overflow: visible;
+}
+#Products {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Support {
+	position: absolute;
+	left: 151.506px;
+	top: 0px;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Partners {
+	position: absolute;
+	left: 289.075px;
+	top: 0px;
+	overflow: visible;
+	width: 61px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#About_Us {
+	position: absolute;
+	left: 440.73px;
+	top: 0px;
+	overflow: visible;
+	width: 64px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Contact_Us {
+	position: absolute;
+	left: 584.825px;
+	top: 0px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Slider_1_01 {
+	fill: url(#Slider_1_01_A1_Rectangle_5_pattern);
+}
+.Slider_1_01 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 749.693px;
+	left: 0px;
+	top: 118.102px;
+}
+#Group_3 {
+	position: absolute;
+	width: 1919px;
+	height: 965.497px;
+	left: 1px;
+	top: 867.696px;
+	overflow: visible;
+}
+#WhatWeDo_02 {
+	fill: url(#WhatWeDo_02_A1_Rectangle_7_pattern);
+}
+.WhatWeDo_02 {
+	position: absolute;
+	overflow: visible;
+	width: 1423.471px;
+	height: 965.497px;
+	left: 247.871px;
+	top: 0px;
+}
+#Rectangle_2 {
+	fill: rgba(177,217,183,1);
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 279.854px;
+	height: 425.778px;
+	left: 0px;
+	top: 539.719px;
+}
+#Rectangle_3 {
+	fill: rgba(240,160,195,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 259.865px;
+	height: 425.778px;
+	left: 1659.135px;
+	top: 539.719px;
+}
+#Group_4 {
+	position: absolute;
+	width: 1920px;
+	height: 1000px;
+	left: 0px;
+	top: 1829.965px;
+	overflow: visible;
+}
+#Gill {
+	fill: url(#Gill_A1_Rectangle_11_pattern);
+}
+.Gill {
+	position: absolute;
+	overflow: visible;
+	width: 1294.118px;
+	height: 1000px;
+	left: 312px;
+	top: 0px;
+}
+#Rectangle_4 {
+	fill: rgba(180,182,185,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 1000px;
+	left: 1522px;
+	top: 0px;
+}
+#Rectangle_5 {
+	fill: rgba(180,182,185,1);
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 398px;
+	height: 1000px;
+	left: 0px;
+	top: 0px;
+}
+#Group_5 {
+	position: absolute;
+	width: 1647.405px;
+	height: 1035.963px;
+	left: 136px;
+	top: 2888.825px;
+	overflow: visible;
+}
+#Gill_Sense_03 {
+	fill: url(#Gill_Sense_03_A1_Rectangle_15_pattern);
+}
+.Gill_Sense_03 {
+	position: absolute;
+	overflow: visible;
+	width: 1560.956px;
+	height: 734.736px;
+	left: 0px;
+	top: 235.854px;
+}
+#Gill_Sense_04 {
+	fill: url(#Gill_Sense_04_A1_Rectangle_17_pattern);
+}
+.Gill_Sense_04 {
+	position: absolute;
+	overflow: visible;
+	width: 197.568px;
+	height: 236.851px;
+	left: 681px;
+	top: 0px;
+}
+#image {
+	fill: url(#image_A1_Rectangle_19_pattern);
+}
+.image {
+	position: absolute;
+	overflow: visible;
+	width: 339.354px;
+	height: 131.329px;
+	left: 1308.051px;
+	top: 904.635px;
+}
