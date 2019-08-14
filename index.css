@@ -1,0 +1,1450 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+:root {
+	--web-view-ids: Home;
+}
+#Home * {
+	margin: 0;
+	padding: 0;
+}
+#Home {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1920px;
+	height: 6489px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+	--web-view-name: Home;
+	--web-view-id: Home;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Solutions_3_02_A0_Rectangle_35 {
+	fill: url(#Solutions_3_02_A0_Rectangle_35_A0_Rectangle_2_pattern);
+}
+.Solutions_3_02_A0_Rectangle_35 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 544px;
+	left: -1px;
+	top: 4894px;
+}
+#Solutions_1_02_A0_Rectangle_37 {
+	fill: url(#Solutions_1_02_A0_Rectangle_37_A0_Rectangle_4_pattern);
+}
+.Solutions_1_02_A0_Rectangle_37 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 544px;
+	left: 640px;
+	top: 4894px;
+}
+#Solutions_2_02_A0_Rectangle_33 {
+	fill: url(#Solutions_2_02_A0_Rectangle_33_A0_Rectangle_6_pattern);
+}
+.Solutions_2_02_A0_Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 640px;
+	height: 544px;
+	left: 1282px;
+	top: 4894px;
+}
+#Rectangle_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 168px;
+	left: 0px;
+	top: 0px;
+}
+#Group_2 {
+	position: absolute;
+	width: 710px;
+	height: 25px;
+	left: 1096.272px;
+	top: 71px;
+	overflow: visible;
+}
+#Products {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 85px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Support {
+	position: absolute;
+	left: 157.769px;
+	top: 0px;
+	overflow: visible;
+	width: 76px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Partners {
+	position: absolute;
+	left: 301.025px;
+	top: 0px;
+	overflow: visible;
+	width: 81px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#About_Us {
+	position: absolute;
+	left: 458.949px;
+	top: 0px;
+	overflow: visible;
+	width: 84px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Contact_Us {
+	position: absolute;
+	left: 609px;
+	top: 0px;
+	overflow: visible;
+	width: 102px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_3 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 631px;
+	left: 0px;
+	top: 915px;
+}
+#Group_30 {
+	position: absolute;
+	width: 1920px;
+	height: 175.511px;
+	left: 0px;
+	top: 1990px;
+	overflow: visible;
+}
+#Rectangle_6 {
+	fill: rgba(223,241,253,1);
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 175.511px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_7 {
+	fill: rgba(228,228,228,1);
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 1919.657px;
+	height: 1049px;
+	left: 0px;
+	top: 3135px;
+}
+#Let_s_Connect_Everything_to_In {
+	position: absolute;
+	left: 589px;
+	top: 4221px;
+	overflow: visible;
+	width: 743px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 44px;
+	color: rgba(0,0,0,1);
+}
+#Group_58 {
+	position: absolute;
+	width: 1527.929px;
+	height: 264.846px;
+	left: 196px;
+	top: 4477.154px;
+	overflow: visible;
+}
+#Group_57 {
+	position: absolute;
+	width: 1500.738px;
+	height: 43px;
+	left: 17.791px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_53 {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: -369.791px;
+	top: -4580.154px;
+	overflow: visible;
+}
+#Group_52 {
+	position: absolute;
+	width: 1500.738px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Smart_Energy_Monitor {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Smart_Temperature_Monitor {
+	position: absolute;
+	left: 524.586px;
+	top: 0px;
+	overflow: visible;
+	width: 445px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Wireless_Level_Monitor {
+	position: absolute;
+	left: 1142.738px;
+	top: 0px;
+	overflow: visible;
+	width: 359px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Group_56 {
+	position: absolute;
+	width: 1527.929px;
+	height: 43px;
+	left: 0px;
+	top: 221.846px;
+	overflow: visible;
+}
+#Group_55 {
+	position: absolute;
+	width: 0px;
+	height: 0px;
+	left: -352px;
+	top: -4802px;
+	overflow: visible;
+}
+#Group_54 {
+	position: absolute;
+	width: 1527.929px;
+	height: 43px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Wireless_Water_Monitor {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 371px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Diesel_Generator_Monitor {
+	position: absolute;
+	left: 541.812px;
+	top: 0px;
+	overflow: visible;
+	width: 399px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Smart_Pressure_Monitor {
+	position: absolute;
+	left: 1147.929px;
+	top: 0px;
+	overflow: visible;
+	width: 381px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Rectangle_8 {
+	fill: rgba(53,186,242,1);
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 92px;
+	left: -4px;
+	top: 5437px;
+}
+#Group_60 {
+	position: absolute;
+	width: 317.134px;
+	height: 127.94px;
+	left: 160px;
+	top: 5241px;
+	overflow: visible;
+}
+#Group_59 {
+	position: absolute;
+	width: 317.134px;
+	height: 84.94px;
+	left: 0px;
+	top: 43px;
+	overflow: visible;
+}
+#Button {
+	filter: drop-shadow(0px 3px 6px rgba(225, 225, 225, 1));
+	fill: rgba(114,132,156,1);
+}
+.Button {
+	position: absolute;
+	overflow: visible;
+	width: 335.134px;
+	height: 102.94px;
+	left: 0px;
+	top: 0px;
+}
+#Request_for_Quote {
+	position: absolute;
+	left: 11px;
+	top: 21px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Water_Sense {
+	position: absolute;
+	left: 35px;
+	top: 0px;
+	overflow: visible;
+	width: 205px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_16 {
+	position: absolute;
+	width: 1129.306px;
+	height: 52.859px;
+	left: 426px;
+	top: 5457px;
+	overflow: visible;
+}
+#Connect_all_of_your_devices_wi {
+	position: absolute;
+	left: 0px;
+	top: 5px;
+	overflow: visible;
+	width: 659px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_14 {
+	position: absolute;
+	width: 252.09px;
+	height: 52.859px;
+	left: 877.216px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_15 {
+	position: absolute;
+	width: 252.09px;
+	height: 52.859px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Button_A0_Rectangle_13 {
+	filter: drop-shadow(0px 3px 6px rgba(225, 225, 225, 1));
+	fill: rgba(114,132,156,1);
+}
+.Button_A0_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 270.09px;
+	height: 70.859px;
+	left: 0px;
+	top: 0px;
+}
+#Call_Us_Today {
+	position: absolute;
+	left: 17.994px;
+	top: 4.958px;
+	overflow: visible;
+	width: 217px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_9 {
+	fill: rgba(255,240,0,1);
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 96px;
+	left: -4px;
+	top: 5529px;
+}
+#Inspiring_Innovations {
+	position: absolute;
+	left: 789px;
+	top: 5556px;
+	overflow: visible;
+	width: 339px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(13,56,75,1);
+}
+#Rectangle_10 {
+	fill: rgba(13,56,75,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 788px;
+	left: -2px;
+	top: 5625px;
+}
+#Line_1 {
+	fill: transparent;
+	stroke: rgb(255, 240, 0);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	top: 5784.5px;
+	left: -1.5px;
+	width: 1920px;
+	height: 3px;
+}
+#Line_2 {
+	fill: transparent;
+	stroke: rgb(255, 240, 0);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_2 {
+	overflow: visible;
+	position: absolute;
+	top: 6301.5px;
+	left: -1.5px;
+	width: 1920px;
+	height: 3px;
+}
+#Rectangle_11 {
+	fill: rgba(112,112,112,1);
+	stroke: rgb(112, 112, 112);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 1924px;
+	height: 77px;
+	left: -6px;
+	top: 6412px;
+}
+#PRODUCTS_Wireless_Level_Monito {
+	position: absolute;
+	left: 199px;
+	top: 5820px;
+	overflow: visible;
+	width: 323px;
+	white-space: nowrap;
+	line-height: 57px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,240,0,1);
+}
+#QUICK_LINKS_Home_Products_Supp {
+	position: absolute;
+	left: 771px;
+	top: 5827px;
+	overflow: hidden;
+	width: 153px;
+	height: 435px;
+	line-height: 57px;
+	margin-top: -16px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(255,240,0,1);
+}
+#_2019_Gill_Instruments_Pvt__Lt {
+	opacity: 0.6;
+	position: absolute;
+	left: 656px;
+	top: 6436px;
+	overflow: visible;
+	width: 609px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(228,228,228,0.749);
+}
+#Group_63 {
+	position: absolute;
+	width: 1615px;
+	height: 108px;
+	left: 209px;
+	top: 5641px;
+	overflow: visible;
+}
+#Group_25 {
+	position: absolute;
+	width: 262px;
+	height: 108px;
+	left: 684px;
+	top: 0px;
+	overflow: visible;
+}
+#Find_an_installer_Get_help_ins {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 263px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#Group_29 {
+	position: absolute;
+	width: 1615px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_27 {
+	position: absolute;
+	width: 289px;
+	height: 108px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Get_Gill_for_less_Find_rebates {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#Group_26 {
+	position: absolute;
+	width: 347px;
+	height: 108px;
+	left: 1268px;
+	top: 0px;
+	overflow: visible;
+}
+#Partner_with_Gill_Get_in_touch {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 348px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#Group_50 {
+	position: absolute;
+	width: 1521px;
+	height: 151px;
+	left: 196px;
+	top: 2002px;
+	overflow: visible;
+}
+#Gill_Sense_Platform_is_built_a {
+	position: absolute;
+	left: 0px;
+	top: 46px;
+	overflow: hidden;
+	width: 1522px;
+	height: 105px;
+	line-height: 35px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 25px;
+	color: rgba(0,0,0,1);
+}
+#We_Make_Sense_ {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Group_61 {
+	position: absolute;
+	width: 317.134px;
+	height: 127.94px;
+	left: 801px;
+	top: 5241px;
+	overflow: visible;
+}
+#Group_59_A0_Group_22 {
+	position: absolute;
+	width: 317.134px;
+	height: 84.94px;
+	left: 0px;
+	top: 43px;
+	overflow: visible;
+}
+#Button_A0_Rectangle_17 {
+	filter: drop-shadow(0px 3px 6px rgba(225, 225, 225, 1));
+	fill: rgba(114,132,156,1);
+}
+.Button_A0_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 335.134px;
+	height: 102.94px;
+	left: 0px;
+	top: 0px;
+}
+#Request_for_Quote_A0_Text_26 {
+	position: absolute;
+	left: 11px;
+	top: 21px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Energy_Sense {
+	position: absolute;
+	left: 4px;
+	top: 0px;
+	overflow: visible;
+	width: 219px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_62 {
+	position: absolute;
+	width: 317.134px;
+	height: 127.94px;
+	left: 1440px;
+	top: 5241px;
+	overflow: visible;
+}
+#Group_59_A0_Group_24 {
+	position: absolute;
+	width: 317.134px;
+	height: 84.94px;
+	left: 0px;
+	top: 43px;
+	overflow: visible;
+}
+#Button_A0_Rectangle_18 {
+	filter: drop-shadow(0px 3px 6px rgba(225, 225, 225, 1));
+	fill: rgba(114,132,156,1);
+}
+.Button_A0_Rectangle_18 {
+	position: absolute;
+	overflow: visible;
+	width: 335.134px;
+	height: 102.94px;
+	left: 0px;
+	top: 0px;
+}
+#Request_for_Quote_A0_Text_28 {
+	position: absolute;
+	left: 11px;
+	top: 21px;
+	overflow: visible;
+	width: 293px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Pressure_Sense {
+	position: absolute;
+	left: 11px;
+	top: 0px;
+	overflow: visible;
+	width: 253px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,255,255,1);
+}
+#Group_64 {
+	position: absolute;
+	width: 664.5px;
+	height: 435px;
+	left: 1131px;
+	top: 5827px;
+	overflow: visible;
+}
+#Group_31 {
+	position: absolute;
+	width: 664.5px;
+	height: 323.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Group_18 {
+	position: absolute;
+	width: 664.5px;
+	height: 323.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Line_3 {
+	fill: transparent;
+	stroke: rgb(255, 240, 0);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_3 {
+	overflow: visible;
+	position: absolute;
+	top: 195.965px;
+	left: 0px;
+	width: 664.5px;
+	height: 3px;
+}
+#Line_4 {
+	fill: transparent;
+	stroke: rgb(255, 240, 0);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Line_4 {
+	overflow: visible;
+	position: absolute;
+	top: 323.5px;
+	left: 0.5px;
+	width: 664px;
+	height: 3px;
+}
+#Address____Gill_Instruments_Pv {
+	position: absolute;
+	left: 63px;
+	top: 0px;
+	overflow: visible;
+	width: 602px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#Phone____91_80_48516868 {
+	position: absolute;
+	left: 63px;
+	top: 222px;
+	overflow: visible;
+	width: 198px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#Ellipse_1 {
+	fill: rgba(13,56,75,1);
+}
+.Ellipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 21px;
+	left: 30px;
+	top: 7px;
+}
+#Mail___contact_gill_instrument {
+	position: absolute;
+	left: 66px;
+	top: 357px;
+	overflow: visible;
+	width: 357px;
+	white-space: nowrap;
+	line-height: 38px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35px;
+	color: rgba(255,240,0,1);
+}
+#SENSE {
+	position: absolute;
+	left: 233px;
+	top: 6340px;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 57px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,56,75,1);
+}
+#CONNECT {
+	position: absolute;
+	left: 529px;
+	top: 6337px;
+	overflow: visible;
+	width: 138px;
+	white-space: nowrap;
+	line-height: 57px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,56,75,1);
+}
+#MANAGE {
+	position: absolute;
+	left: 840px;
+	top: 6338px;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	line-height: 57px;
+	margin-top: -13.5px;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(13,56,75,1);
+}
+#Rectangle_27 {
+	fill: rgba(178,180,182,1);
+}
+.Rectangle_27 {
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	height: 970px;
+	left: 1549px;
+	top: 2165px;
+}
+#Rectangle_28 {
+	fill: rgba(178,180,182,1);
+}
+.Rectangle_28 {
+	position: absolute;
+	overflow: visible;
+	width: 371px;
+	height: 970px;
+	left: 0px;
+	top: 2166px;
+}
+#Path_1 {
+	fill: rgba(240,160,197,1);
+}
+.Path_1 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 1499px;
+	left: 1720px;
+	width: 200px;
+	height: 485px;
+}
+#ID1 {
+	fill: url(#ID1_A0_Rectangle_22_pattern);
+}
+.ID1 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 751px;
+	left: 0px;
+	top: 168px;
+}
+#Gill_Instruments_Logo_02_A0_Re {
+	fill: url(#Gill_Instruments_Logo_02_A0_Re_A0_Rectangle_24_pattern);
+}
+.Gill_Instruments_Logo_02_A0_Re {
+	position: absolute;
+	overflow: visible;
+	width: 239px;
+	height: 128px;
+	left: 57px;
+	top: 20px;
+}
+#Gill {
+	fill: url(#Gill_A0_Rectangle_26_pattern);
+}
+.Gill {
+	position: absolute;
+	overflow: visible;
+	width: 1255px;
+	height: 969px;
+	left: 333px;
+	top: 2166px;
+}
+#Get_it_on_Google_Play_A0_Recta {
+	fill: url(#Get_it_on_Google_Play_A0_Recta_A0_Rectangle_28_pattern);
+}
+.Get_it_on_Google_Play_A0_Recta {
+	position: absolute;
+	overflow: visible;
+	width: 230.807px;
+	height: 88.919px;
+	left: 1548.947px;
+	top: 4065.716px;
+}
+#Gill_Sense_Logo_03_A0_Rectangl {
+	fill: url(#Gill_Sense_Logo_03_A0_Rectangl_A0_Rectangle_30_pattern);
+}
+.Gill_Sense_Logo_03_A0_Rectangl {
+	position: absolute;
+	overflow: visible;
+	width: 105.971px;
+	height: 132.191px;
+	left: 906.337px;
+	top: 3144px;
+}
+#ID5_Mobiles_01_A0_Rectangle_15 {
+	fill: url(#ID5_Mobiles_01_A0_Rectangle_15_A0_Rectangle_32_pattern);
+}
+.ID5_Mobiles_01_A0_Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 1638.732px;
+	height: 798.063px;
+	left: 140.912px;
+	top: 3307.654px;
+}
+#What_we_do_01 {
+	fill: url(#What_we_do_01_A0_Rectangle_34_pattern);
+}
+.What_we_do_01 {
+	position: absolute;
+	overflow: visible;
+	width: 1720px;
+	height: 1091px;
+	left: 100px;
+	top: 894px;
+}
+#Rectangle_4 {
+	fill: rgba(177,217,183,1);
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	height: 485px;
+	left: 0px;
+	top: 1500px;
+}
+#Level_Icon_A0_Rectangle_23_pat {
+	fill: url(#Level_Icon_A0_Rectangle_23_pat_A0_Rectangle_37_pattern);
+}
+.Level_Icon_A0_Rectangle_23_pat {
+	position: absolute;
+	overflow: visible;
+	width: 87.366px;
+	height: 88.12px;
+	left: 340.851px;
+	top: 4393.242px;
+}
+#Temp_A0_Rectangle_21_pattern_2 {
+	fill: url(#Temp_A0_Rectangle_21_pattern_2_A0_Rectangle_39_pattern);
+}
+.Temp_A0_Rectangle_21_pattern_2 {
+	position: absolute;
+	overflow: visible;
+	width: 64.354px;
+	height: 136.758px;
+	left: 946.749px;
+	top: 4340.242px;
+}
+#Energy_A0_Rectangle_25_pattern {
+	fill: url(#Energy_A0_Rectangle_25_pattern_A0_Rectangle_41_pattern);
+}
+.Energy_A0_Rectangle_25_pattern {
+	position: absolute;
+	overflow: visible;
+	width: 87.366px;
+	height: 88.12px;
+	left: 1511.634px;
+	top: 4393.242px;
+}
+#DG_A0_Rectangle_31_pattern {
+	fill: url(#DG_A0_Rectangle_31_pattern_A0_Rectangle_43_pattern);
+}
+.DG_A0_Rectangle_31_pattern {
+	position: absolute;
+	overflow: visible;
+	width: 124.396px;
+	height: 80.534px;
+	left: 898.102px;
+	top: 4609.647px;
+}
+#Pres_A0_Rectangle_27_pattern {
+	fill: url(#Pres_A0_Rectangle_27_pattern_A0_Rectangle_45_pattern);
+}
+.Pres_A0_Rectangle_27_pattern {
+	position: absolute;
+	overflow: visible;
+	width: 84.129px;
+	height: 96.353px;
+	left: 318.689px;
+	top: 4609.647px;
+}
+#water_Meter_Icon_A0_Rectangle_ {
+	fill: url(#water_Meter_Icon_A0_Rectangle__A0_Rectangle_47_pattern);
+}
+.water_Meter_Icon_A0_Rectangle_ {
+	position: absolute;
+	overflow: visible;
+	width: 127.991px;
+	height: 92.758px;
+	left: 1491.009px;
+	top: 4603.647px;
+}
+#tools_A0_Rectangle_62_pattern {
+	fill: url(#tools_A0_Rectangle_62_pattern_A0_Rectangle_49_pattern);
+}
+.tools_A0_Rectangle_62_pattern {
+	position: absolute;
+	overflow: visible;
+	width: 108px;
+	height: 101px;
+	left: 747px;
+	top: 5647px;
+}
+#house_1_A0_Rectangle_66_patter {
+	fill: url(#house_1_A0_Rectangle_66_patter_A0_Rectangle_51_pattern);
+}
+.house_1_A0_Rectangle_66_patter {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 101px;
+	left: 1329px;
+	top: 5648px;
+}
+#money_A0_Rectangle_64_pattern {
+	fill: url(#money_A0_Rectangle_64_pattern_A0_Rectangle_53_pattern);
+}
+.money_A0_Rectangle_64_pattern {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 101px;
+	left: 73px;
+	top: 5648px;
+}
+#Mail_01_A0_Rectangle_51_patter {
+	fill: url(#Mail_01_A0_Rectangle_51_patter_A0_Rectangle_55_pattern);
+}
+.Mail_01_A0_Rectangle_51_patter {
+	position: absolute;
+	overflow: visible;
+	width: 58px;
+	height: 58px;
+	left: 1135px;
+	top: 6172px;
+}
+#Phone_01_A0_Rectangle_49_patte {
+	fill: url(#Phone_01_A0_Rectangle_49_patte_A0_Rectangle_57_pattern);
+}
+.Phone_01_A0_Rectangle_49_patte {
+	position: absolute;
+	overflow: visible;
+	width: 62px;
+	height: 62px;
+	left: 1131px;
+	top: 6037px;
+}
+#Location_01_A0_Rectangle_47_pa {
+	fill: url(#Location_01_A0_Rectangle_47_pa_A0_Rectangle_59_pattern);
+}
+.Location_01_A0_Rectangle_47_pa {
+	position: absolute;
+	overflow: visible;
+	width: 63px;
+	height: 63px;
+	left: 1131px;
+	top: 5820px;
+}
+#Ellipse_2 {
+	fill: rgba(13,56,75,1);
+}
+.Ellipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 21px;
+	height: 21px;
+	left: 1153px;
+	top: 5835px;
+}
+#Twitter_A0_Rectangle_58_patter {
+	fill: url(#Twitter_A0_Rectangle_58_patter_A0_Rectangle_61_pattern);
+}
+.Twitter_A0_Rectangle_58_patter {
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 63px;
+	left: 1370.894px;
+	top: 6325px;
+}
+#Facebook_A0_Rectangle_60_patte {
+	fill: url(#Facebook_A0_Rectangle_60_patte_A0_Rectangle_63_pattern);
+}
+.Facebook_A0_Rectangle_60_patte {
+	position: absolute;
+	overflow: visible;
+	width: 64px;
+	height: 63px;
+	left: 1514.415px;
+	top: 6325px;
+}
+#LinkedIn_A0_Rectangle_56_patte {
+	fill: url(#LinkedIn_A0_Rectangle_56_patte_A0_Rectangle_65_pattern);
+}
+.LinkedIn_A0_Rectangle_56_patte {
+	position: absolute;
+	overflow: visible;
+	width: 68px;
+	height: 63px;
+	left: 1659.676px;
+	top: 6325px;
+}
+#Group_65 {
+	transform: rotate(90deg);
+	transform-origin: left;
+	position: absolute;
+	width: 54.601px;
+	height: 205.229px;
+	left: 158px;
+	top: 6329px;
+	overflow: visible;
+}
+#Polygon_1 {
+	fill: rgba(255,240,0,1);
+}
+.Polygon_1 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 156.95px;
+	width: 48.279px;
+	height: 54.601px;
+}
+#Rectangle_29 {
+	fill: rgba(255,240,0,1);
+}
+.Rectangle_29 {
+	position: absolute;
+	overflow: visible;
+	width: 156.95px;
+	height: 54.601px;
+	left: 0px;
+	top: 0px;
+}
+#Group_66 {
+	transform: rotate(90deg);
+	transform-origin: left;
+	position: absolute;
+	width: 54.601px;
+	height: 205.229px;
+	left: 500px;
+	top: 6329px;
+	overflow: visible;
+}
+#Polygon_1_A0_Polygon_2 {
+	fill: rgba(255,240,0,1);
+}
+.Polygon_1_A0_Polygon_2 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 156.95px;
+	width: 48.279px;
+	height: 54.601px;
+}
+#Rectangle_29_A0_Rectangle_67 {
+	fill: rgba(255,240,0,1);
+}
+.Rectangle_29_A0_Rectangle_67 {
+	position: absolute;
+	overflow: visible;
+	width: 156.95px;
+	height: 54.601px;
+	left: 0px;
+	top: 0px;
+}
+#Group_67 {
+	transform: rotate(90deg);
+	transform-origin: left;
+	position: absolute;
+	width: 54.601px;
+	height: 205.229px;
+	left: 843px;
+	top: 6328px;
+	overflow: visible;
+}
+#Polygon_1_A0_Polygon_3 {
+	fill: rgba(255,240,0,1);
+}
+.Polygon_1_A0_Polygon_3 {
+	transform: matrix(1,0,0,1,0,0);
+	overflow: visible;
+	position: absolute;
+	top: 0px;
+	left: 156.95px;
+	width: 48.279px;
+	height: 54.601px;
+}
+#Rectangle_29_A0_Rectangle_68 {
+	fill: rgba(255,240,0,1);
+}
+.Rectangle_29_A0_Rectangle_68 {
+	position: absolute;
+	overflow: visible;
+	width: 156.95px;
+	height: 54.601px;
+	left: 0px;
+	top: 0px;
+}
+#SENSE_A0_Text_36 {
+	position: absolute;
+	left: 158px;
+	top: 6335px;
+	overflow: visible;
+	width: 113px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#CONNECT_A0_Text_37 {
+	position: absolute;
+	left: 500px;
+	top: 6335px;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#MANAGE_A0_Text_38 {
+	position: absolute;
+	left: 843px;
+	top: 6334px;
+	overflow: visible;
+	width: 146px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Akkurat;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
